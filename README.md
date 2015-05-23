@@ -1,3 +1,9 @@
+[![Gem Version](https://badge.fury.io/rb/thailand.svg)](http://badge.fury.io/rb/thailand)
+[![Dependency Status](https://gemnasium.com/kiterminal/thailand.svg)](https://gemnasium.com/kiterminal/thailand)
+[![Build Status](https://travis-ci.org/kiterminal/thailand.svg?branch=master)](https://travis-ci.org/kiterminal/thailand)
+[![Coverage Status](https://coveralls.io/repos/kiterminal/thailand/badge.svg?branch=master)](https://coveralls.io/r/kiterminal/thailand?branch=master)
+[![Code Climate](https://codeclimate.com/github/kiterminal/thailand/badges/gpa.svg)](https://codeclimate.com/github/kiterminal/thailand)
+
 # Thailand
 
 Provinces, districts and subdistricts of Thailand
