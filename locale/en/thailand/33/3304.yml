@@ -1,0 +1,45 @@
+---
+en:
+  thailand:
+    '33':
+      '3304':
+        '330401':
+          name: Bueng Malu
+        '330402':
+          name: Kut Salao
+        '330403':
+          name: Mueang
+        '330405':
+          name: Sang Mek
+        '330406':
+          name: Nam Om
+        '330407':
+          name: Lalai
+        '330408':
+          name: Rung
+        '330409':
+          name: Trakat
+        '330411':
+          name: Chan Yai
+        '330412':
+          name: Phu Ngoen
+        '330413':
+          name: Cham
+        '330414':
+          name: Krachaeng
+        '330415':
+          name: Non Samran
+        '330416':
+          name: Nong Ya Lat
+        '330419':
+          name: Sao Thong Chai
+        '330420':
+          name: Khanun
+        '330421':
+          name: Suan Kluai
+        '330423':
+          name: Wiang Nuea
+        '330424':
+          name: Thung Yai
+        '330425':
+          name: Phu Pha Mok

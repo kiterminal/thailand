@@ -1,0 +1,31 @@
+---
+en:
+  thailand:
+    '90':
+      '9011':
+        '901101':
+          name: Hat Yai
+        '901102':
+          name: Khuan Lang
+        '901103':
+          name: Khu Tao
+        '901104':
+          name: Kho Hong
+        '901105':
+          name: Khlong Hae
+        '901107':
+          name: Khlong U Ta Phao
+        '901108':
+          name: Chalung
+        '901111':
+          name: Thung Yai
+        '901112':
+          name: Thung Tam Sao
+        '901113':
+          name: Tha Kham
+        '901114':
+          name: Nam Noi
+        '901116':
+          name: Ban Phru
+        '901118':
+          name: Pha Tong

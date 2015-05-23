@@ -1,0 +1,14 @@
+sudo: false
+cache: bundler
+language: ruby
+rvm:
+  - 2.0
+  - 2.1
+  - 2.2
+branches:
+  only:
+    - master
+    - develop
+before_install: gem update --remote bundler
+install:
+  - bundle install --retry=3

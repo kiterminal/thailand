@@ -1,0 +1,37 @@
+---
+en:
+  thailand:
+    '33':
+      '3301':
+        '330101':
+          name: Mueang Nuea
+        '330103':
+          name: Khu Sot
+        '330104':
+          name: Sam
+        '330105':
+          name: Chan
+        '330106':
+          name: Tadop
+        '330107':
+          name: Nong Khrok
+        '330111':
+          name: Phon Kha
+        '330112':
+          name: Phon Kho
+        '330116':
+          name: Ya Plong
+        '330118':
+          name: Thum
+        '330119':
+          name: Nong Hai
+        '330121':
+          name: Nong Kaeo
+        '330122':
+          name: Nam Kham
+        '330123':
+          name: Pho
+        '330124':
+          name: Mak Khiap
+        '330127':
+          name: Nong Phai

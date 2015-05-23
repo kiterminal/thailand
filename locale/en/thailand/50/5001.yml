@@ -1,0 +1,35 @@
+---
+en:
+  thailand:
+    '50':
+      '5001':
+        '500101':
+          name: Si Phum
+        '500102':
+          name: Phra Sing
+        '500103':
+          name: Hai Ya
+        '500104':
+          name: Chang Moi
+        '500105':
+          name: Chang Khlan
+        '500106':
+          name: Wat Ket
+        '500107':
+          name: Chang Phueak
+        '500109':
+          name: ''
+        '500110':
+          name: Pa Daet
+        '500111':
+          name: Nong Hoi
+        '500112':
+          name: Tha Sala
+        '500113':
+          name: Nong Pa Khrang
+        '500114':
+          name: Fa Ham
+        '500115':
+          name: Pa Tan
+        '500116':
+          name: San Phisuea

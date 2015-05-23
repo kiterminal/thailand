@@ -1,0 +1,37 @@
+---
+en:
+  thailand:
+    '80':
+      '8001':
+        '800101':
+          name: Nai Mueang
+        '800102':
+          name: Tha Wang
+        '800103':
+          name: Khlang
+        '800106':
+          name: Tha Rai
+        '800107':
+          name: Pak Nakhon
+        '800108':
+          name: ''
+        '800112':
+          name: Kamphaeng Sao
+        '800113':
+          name: Chai Montri
+        '800114':
+          name: Mamuang Song Ton
+        '800115':
+          name: Na Khian
+        '800116':
+          name: Tha Ngio
+        '800118':
+          name: Pho Sadet
+        '800119':
+          name: Bang Chak
+        '800120':
+          name: Pak Phun
+        '800121':
+          name: Tha Sak
+        '800122':
+          name: Tha Ruea

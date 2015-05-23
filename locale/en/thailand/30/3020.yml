@@ -1,0 +1,29 @@
+---
+en:
+  thailand:
+    '30':
+      '3020':
+        '302001':
+          name: Sikhio
+        '302002':
+          name: Ban Han
+        '302003':
+          name: Kritsana
+        '302004':
+          name: Lat Bua Khao
+        '302005':
+          name: Nong Ya Khao
+        '302006':
+          name: Kut Noi
+        '302007':
+          name: Nong Nam Sai
+        '302008':
+          name: Wang Rong Yai
+        '302009':
+          name: Mittraphap
+        '302010':
+          name: Khlong Phai
+        '302011':
+          name: Don Mueang
+        '302012':
+          name: Nong Bua Noi

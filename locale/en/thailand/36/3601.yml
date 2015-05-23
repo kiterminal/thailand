@@ -1,0 +1,43 @@
+---
+en:
+  thailand:
+    '36':
+      '3601':
+        '360101':
+          name: Nai Mueang
+        '360102':
+          name: Rop Mueang
+        '360103':
+          name: Phon Thong
+        '360104':
+          name: Na Fai
+        '360105':
+          name: Ban Khai
+        '360106':
+          name: Kut Tum
+        '360107':
+          name: Chilong
+        '360108':
+          name: Ban Lao
+        '360109':
+          name: Na Siao
+        '360110':
+          name: Nong Na Saeng
+        '360111':
+          name: Lat Yai
+        '360112':
+          name: Nong Phai
+        '360113':
+          name: Tha Hin Ngom
+        '360114':
+          name: Huai Ton
+        '360115':
+          name: Huai Bong
+        '360116':
+          name: Non Samran
+        '360117':
+          name: Khok Sung
+        '360118':
+          name: Bung Khla
+        '360119':
+          name: Sap Si Thong

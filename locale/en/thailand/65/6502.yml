@@ -1,0 +1,27 @@
+---
+en:
+  thailand:
+    '65':
+      '6502':
+        '650201':
+          name: Nakhon Thai
+        '650202':
+          name: Nong Kathao
+        '650203':
+          name: Ban Yaeng
+        '650204':
+          name: Noen Phoem
+        '650205':
+          name: Na Bua
+        '650206':
+          name: Nakhon Chum
+        '650207':
+          name: Nam Kum
+        '650208':
+          name: Yang Klon
+        '650209':
+          name: Bo Pho
+        '650210':
+          name: Ban Phrao
+        '650211':
+          name: Huai Hia

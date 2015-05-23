@@ -1,0 +1,43 @@
+---
+en:
+  thailand:
+    '24':
+      '2401':
+        '240101':
+          name: Na Mueang
+        '240102':
+          name: Tha Khai
+        '240103':
+          name: Ban Mai
+        '240104':
+          name: Khlong Na
+        '240105':
+          name: Bang Tin Pet
+        '240106':
+          name: Bang Phai
+        '240107':
+          name: Khlong Chuk Khachoe
+        '240108':
+          name: Bang Kaeo
+        '240109':
+          name: Bang Khwan
+        '240110':
+          name: Khlong Nakhon Nueang Khet
+        '240111':
+          name: Wang Takhian
+        '240112':
+          name: Sothon
+        '240113':
+          name: Bang Phra
+        '240114':
+          name: Bang Kahai
+        '240115':
+          name: Nam Daeng
+        '240116':
+          name: Khlong Preng
+        '240117':
+          name: Khlong Udom Chonlachon
+        '240118':
+          name: Khlong Luang Phaeng
+        '240119':
+          name: Bang Toei

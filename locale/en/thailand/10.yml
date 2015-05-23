@@ -1,0 +1,104 @@
+---
+en:
+  thailand:
+    '10':
+      '1001':
+        name: Phra Nakhon
+      '1002':
+        name: Dusit
+      '1003':
+        name: Nong Chok
+      '1004':
+        name: Bang Rak
+      '1005':
+        name: Bang Khen
+      '1006':
+        name: Bang Kapi
+      '1007':
+        name: Pathum Wan
+      '1008':
+        name: Pom Prap Sattruphai
+      '1009':
+        name: Phra Khanong
+      '1010':
+        name: Min Buri
+      '1011':
+        name: Lat Krabang
+      '1012':
+        name: Yannawa
+      '1013':
+        name: Samphanthawong
+      '1014':
+        name: Phaya Thai
+      '1015':
+        name: Thon Buri
+      '1016':
+        name: Bangkok Yai
+      '1017':
+        name: Huai Khwang
+      '1018':
+        name: Khlong San
+      '1019':
+        name: Taling Chan
+      '1020':
+        name: Bangkok Noi
+      '1021':
+        name: Bang Khun Thian
+      '1022':
+        name: Phasi Charoen
+      '1023':
+        name: Nong Khaem
+      '1024':
+        name: Rat Burana
+      '1025':
+        name: Bang Phlat
+      '1026':
+        name: Din Daeng
+      '1027':
+        name: Bung Kum
+      '1028':
+        name: Sa Thon
+      '1029':
+        name: Bang Su
+      '1030':
+        name: Chatuchak
+      '1031':
+        name: Bang Kho Laem
+      '1032':
+        name: Prawet
+      '1033':
+        name: Khlong Toei
+      '1034':
+        name: Suan Luang
+      '1035':
+        name: Chom Thong
+      '1036':
+        name: Don Mueang
+      '1037':
+        name: Rat Thewi
+      '1038':
+        name: Lat Phrao
+      '1039':
+        name: Watthana
+      '1040':
+        name: Bang Khae
+      '1041':
+        name: Lak Si
+      '1042':
+        name: Sai Mai
+      '1043':
+        name: Khanna Yao
+      '1044':
+        name: Saphan Sung
+      '1045':
+        name: Wang Thong Lang
+      '1046':
+        name: Khlong Sam Wa
+      '1047':
+        name: Bang Na
+      '1048':
+        name: Thawi Watthana
+      '1049':
+        name: Thung Khu
+      '1050':
+        name: Bang Bon

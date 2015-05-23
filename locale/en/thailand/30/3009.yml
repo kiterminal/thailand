@@ -1,0 +1,25 @@
+---
+en:
+  thailand:
+    '30':
+      '3009':
+        '300901':
+          name: Non Thai
+        '300902':
+          name: Dan Chak
+        '300903':
+          name: Kampang
+        '300904':
+          name: Samrong
+        '300905':
+          name: Khang Phlu
+        '300906':
+          name: Ban Wang
+        '300907':
+          name: Banlang
+        '300908':
+          name: Sai-O
+        '300909':
+          name: Thanon Pho
+        '300914':
+          name: Makha

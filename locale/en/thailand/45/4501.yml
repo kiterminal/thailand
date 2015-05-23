@@ -1,0 +1,35 @@
+---
+en:
+  thailand:
+    '45':
+      '4501':
+        '450101':
+          name: Nai Mueang
+        '450102':
+          name: Rop Mueang
+        '450103':
+          name: Nuea Mueang
+        '450104':
+          name: Khon Kaen
+        '450105':
+          name: Na Pho
+        '450106':
+          name: Sa-At Sombun
+        '450108':
+          name: Si Kaeo
+        '450109':
+          name: Po Phan
+        '450110':
+          name: Non Rang
+        '450117':
+          name: Nong Kaeo
+        '450118':
+          name: Nong Waeng
+        '450120':
+          name: Dong Lan
+        '450123':
+          name: Khaen Yai
+        '450124':
+          name: Non Tan
+        '450125':
+          name: Mueang Thong
