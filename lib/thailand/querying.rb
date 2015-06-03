@@ -10,7 +10,7 @@ module Thailand
     def coded(code)
       return nil if code.nil?
 
-      code = code.downcase # Codes are all ASCII
+      code = code.to_s.downcase # Codes are all ASCII
       query_collection.find { |region| region.send(:code).downcase == code }
     end
 
