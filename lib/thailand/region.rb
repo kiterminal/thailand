@@ -12,7 +12,7 @@ module Thailand
     end
 
     def name
-      Thailand.i18n_backend.translate(path('name')).to_s.force_encoding('UTF-8')
+      Thailand.i18n_backend.translate(path('name'))
     end
 
     def subregions
