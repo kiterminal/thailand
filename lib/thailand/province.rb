@@ -8,11 +8,16 @@ module Thailand
     extend Querying
     extend SingleForwardable
 
-    attr_reader :code
+    attr_reader :code, :region
 
     def initialize(data = {}, parent = nil)
       @code = data['code']
+      @region = data['region']
       super
+    end
+
+    def region
+      Thailand.i18n_backend.translate(path('region'))
     end
 
     def subregion_class
