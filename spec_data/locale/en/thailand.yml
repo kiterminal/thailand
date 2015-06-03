@@ -1,7 +1,11 @@
 ---
 en:
   thailand:
+    name: Thailand
+    official_name: Kingdom of Thailand
     '10':
       name: Bangkok
+      region: Central Thailand
     '11':
       name: Samut Prakarn
+      region: Central Thailand
