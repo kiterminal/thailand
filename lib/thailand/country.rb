@@ -6,11 +6,11 @@ module Thailand
     include Singleton
 
     def name
-      'Thailand'
+      Thailand.i18n_backend.translate 'thailand.name'
     end
 
     def official_name
-      'Kingdom of Thailand'
+      Thailand.i18n_backend.translate 'thailand.official_name'
     end
 
     def subregion_data_path
