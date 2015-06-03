@@ -20,6 +20,10 @@ describe 'Province' do
       expect(subject.name).to eql('Bangkok')
     end
 
+    it 'has a region' do
+      expect(subject.region).to eql('Central Thailand')
+    end
+
     it 'has a reasonable explicit string conversion' do
       expect(subject.to_s).to eql('Bangkok')
     end
