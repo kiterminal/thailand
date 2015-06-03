@@ -4,7 +4,13 @@ en:
     '63':
       '6301':
         '630101':
-          name: ''
+          name: Rahaeng
+        '630102':
+          name: Nong Luang
+        '630103':
+          name: Chiang Ngoen
+        '630104':
+          name: Hua Diat
         '630105':
           name: Nong Bua Nuea
         '630106':

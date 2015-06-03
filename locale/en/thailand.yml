@@ -1,157 +1,236 @@
 ---
 en:
   thailand:
+    name: Thailand
+    official_name: Kingdom of Thailand
     '10':
       name: Bangkok
+      region: Central Thailand
     '11':
       name: Samut Prakarn
+      region: Central Thailand
     '12':
       name: Nonthaburi
+      region: Central Thailand
     '13':
       name: Pathum Thani
+      region: Central Thailand
     '14':
       name: Phra Nakhon Si Ayutthaya
+      region: Central Thailand
     '15':
       name: Ang Thong
+      region: Central Thailand
     '16':
       name: Lop Buri
+      region: Central Thailand
     '17':
       name: Sing Buri
+      region: Central Thailand
     '18':
       name: Chai Nat
+      region: Central Thailand
     '19':
       name: Saraburi
+      region: Central Thailand
     '20':
       name: Chon Buri
+      region: Eastern Thailand
     '21':
       name: Rayong
+      region: Eastern Thailand
     '22':
       name: Chanthaburi
+      region: Eastern Thailand
     '23':
       name: Trat
+      region: Eastern Thailand
     '24':
       name: Chachoengsao
+      region: Eastern Thailand
     '25':
       name: Prachin Buri
+      region: Eastern Thailand
     '26':
       name: Nakhon Nayok
+      region: Central Thailand
     '27':
-      name: Sa kaeo
+      name: Sa Kaeo
+      region: Eastern Thailand
     '30':
       name: Nakhon Ratchasima
+      region: Northeastern Thailand
     '31':
       name: Buri Ram
+      region: Northeastern Thailand
     '32':
       name: Surin
+      region: Northeastern Thailand
     '33':
       name: Si Sa Ket
+      region: Northeastern Thailand
     '34':
       name: Ubon Ratchathani
+      region: Northeastern Thailand
     '35':
       name: Yasothon
+      region: Northeastern Thailand
     '36':
       name: Chaiyaphum
+      region: Northeastern Thailand
     '37':
       name: Amnat Charoen
+      region: Northeastern Thailand
     '38':
       name: Bueng Kan
+      region: Northeastern Thailand
     '39':
       name: Nong Bua Lam Phu
+      region: Northeastern Thailand
     '40':
       name: Khon Kaen
+      region: Northeastern Thailand
     '41':
       name: Udon Thani
+      region: Northeastern Thailand
     '42':
       name: Loei
+      region: Northeastern Thailand
     '43':
       name: Nong Khai
+      region: Northeastern Thailand
     '44':
       name: Maha Sarakham
+      region: Northeastern Thailand
     '45':
       name: Roi Et
+      region: Northeastern Thailand
     '46':
       name: Kalasin
+      region: Northeastern Thailand
     '47':
       name: Sakon Nakhon
+      region: Northeastern Thailand
     '48':
       name: Nakhon Phanom
+      region: Northeastern Thailand
     '49':
       name: Mukdahan
+      region: Northeastern Thailand
     '50':
       name: Chiang Mai
+      region: Northern Thailand
     '51':
       name: Lamphun
+      region: Northern Thailand
     '52':
       name: Lampang
+      region: Northern Thailand
     '53':
       name: Uttaradit
+      region: Northern Thailand
     '54':
       name: Phrae
+      region: Northern Thailand
     '55':
       name: Nan
+      region: Northern Thailand
     '56':
       name: Phayao
+      region: Northern Thailand
     '57':
       name: Chiang Rai
+      region: Northern Thailand
     '58':
       name: Mae Hong Son
+      region: Northern Thailand
     '60':
       name: Nakhon Sawan
+      region: Central Thailand
     '61':
       name: Uthai Thani
+      region: Central Thailand
     '62':
       name: Kamphaeng Phet
+      region: Central Thailand
     '63':
       name: Tak
+      region: Western Thailand
     '64':
       name: Sukhothai
+      region: Central Thailand
     '65':
       name: Phitsanulok
+      region: Central Thailand
     '66':
       name: Phichit
+      region: Central Thailand
     '67':
       name: Phetchabun
+      region: Central Thailand
     '70':
       name: Ratchaburi
+      region: Western Thailand
     '71':
       name: Kanchanaburi
+      region: Western Thailand
     '72':
       name: Suphan Buri
+      region: Central Thailand
     '73':
       name: Nakhon Pathom
+      region: Central Thailand
     '74':
       name: Samut Sakhon
+      region: Central Thailand
     '75':
       name: Samut Songkhram
+      region: Central Thailand
     '76':
       name: Phetchaburi
+      region: Western Thailand
     '77':
       name: Prachuap Khiri Khan
+      region: Western Thailand
     '80':
       name: Nakhon Si Thammarat
+      region: Southern Thailand
     '81':
       name: Krabi
+      region: Southern Thailand
     '82':
       name: Phang-nga
+      region: Southern Thailand
     '83':
       name: Phuket
+      region: Southern Thailand
     '84':
       name: Surat Thani
+      region: Southern Thailand
     '85':
       name: Ranong
+      region: Southern Thailand
     '86':
       name: Chumphon
+      region: Southern Thailand
     '90':
       name: Songkhla
+      region: Southern Thailand
     '91':
       name: Satun
+      region: Southern Thailand
     '92':
       name: Trang
+      region: Southern Thailand
     '93':
       name: Phatthalung
+      region: Southern Thailand
     '94':
       name: Pattani
+      region: Southern Thailand
     '95':
       name: Yala
+      region: Southern Thailand
     '96':
       name: Narathiwat
+      region: Southern Thailand

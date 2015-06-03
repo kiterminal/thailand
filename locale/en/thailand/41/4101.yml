@@ -24,7 +24,7 @@ en:
         '410110':
           name: Kut Sa
         '410111':
-          name: ''
+          name: Na Di
         '410112':
           name: Ban Lueam
         '410113':
@@ -33,6 +33,8 @@ en:
           name: Sam Phrao
         '410115':
           name: Nong Hai
+        '410116':
+          name: Na Kha
         '410117':
           name: Ban Chan
         '410118':
