@@ -5,7 +5,7 @@ describe 'Country' do
 
   context 'basic methods' do
     it 'has a inspect value' do
-      expect(subject.inspect).to eql('<#Thailand::Country>')
+      expect(subject.inspect).to eql('#<Thailand::Country name: "Thailand", official_name: "Kingdom of Thailand">')
     end
 
     it 'has a path' do
