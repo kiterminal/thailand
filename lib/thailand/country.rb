@@ -26,7 +26,10 @@ module Thailand
     end
 
     def inspect
-      "<##{self.class}>"
+      "#<#{self.class} name: \"#{name}\", official_name: \"#{official_name}\">"
     end
+
+    alias_method :changwat, :subregions
+    alias_method :changwat?, :subregions?
   end
 end
