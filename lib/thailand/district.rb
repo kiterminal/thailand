@@ -22,5 +22,10 @@ module Thailand
     def self.query_collection
       all
     end
+
+    alias_method :tambon, :subregions
+    alias_method :tambon?, :subregions?
+    alias_method :khwaeng, :subregions
+    alias_method :khwaeng?, :subregions?
   end
 end
