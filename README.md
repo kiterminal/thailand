@@ -31,30 +31,41 @@ require 'thailand'
 include Thailand
 
 thailand = Country.instance
-=> <#Thailand::Country>
+=> #<Thailand::Country name: "Thailand", official_name: "Kingdom of Thailand">
 thailand.name
 => "Thailand"
 thailand.official_name
 => "Kingdom of Thailand"
-thailand.subregions.size
+thailand.subregions?      # or use changwat? instead of subregions?
+=> true
+thailand.subregions.size  # or use changwat instead of subregions
 => 77
 
 bangkok = Province.named 'Bangkok'
-=> <#Thailand::Province name="Bangkok">
-bangkok.subregions?
+=> #<Thailand::Province name: "Bangkok">
+bangkok.subregions?       # or use amphoe? or khet? instead of subregions?
 => true
+bangkok.subregions.size   # or use amphoe or khet instead of subregions
+=> 50
 
-district = District.code '1001'
-=> <#Thailand::District name="Phra Nakhon">
+district = District.coded '1001'
+=> #<Thailand::District name: "Phra Nakhon">
 district.name
 => "Phra Nakhon"
-district.subregions?
+district.subregions?      # or use tambon? or khwaeng? instead of subregions?
 => true
+district.subregions.size  # or use tambon or khwaeng instead of subregions
+=> 12
 
 subdistrict = district.subregions.first
-=> <#Thailand::Region name="Phra Borom Maha Ratchawang">
+=> #<Thailand::Region name: "Phra Borom Maha Ratchawang">
 subdistrict.name
 => "Phra Borom Maha Ratchawang"
+
+Thailand.i18n_backend.locale = :th
+thailand = Country.instance
+thailand.name
+=> "\u0E1B\u0E23\u0E30\u0E40\u0E17\u0E28\u0E44\u0E17\u0E22"
 ```
 
 ## Contributing
