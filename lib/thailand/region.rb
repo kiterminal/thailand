@@ -41,7 +41,7 @@ module Thailand
     end
 
     def inspect
-      "#<#{self.class} name: \"#{name}\">"
+      "#<#{self.class} code: \"#{code}\", name: \"#{name}\">"
     end
 
     def to_s
