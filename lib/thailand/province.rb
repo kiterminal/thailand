@@ -32,6 +32,8 @@ module Thailand
       all
     end
 
+    alias_method :districts, :subregions
+    alias_method :districts?, :subregions?
     alias_method :amphoe, :subregions
     alias_method :amphoe?, :subregions?
     alias_method :khet, :subregions
