@@ -5,7 +5,7 @@ describe 'District' do
 
   context 'basic methods' do
     it 'has a inspect value' do
-      expect(subject.inspect).to eql('#<Thailand::District name: "Phra Nakhon">')
+      expect(subject.inspect).to eql('#<Thailand::District code: "1001", name: "Phra Nakhon">')
     end
 
     it 'has a path' do
